@@ -1,5 +1,8 @@
 # Voron Legacy Mini
 
+![Render of the Printer](https://i.imgur.com/QYSxv2Z.png)
+
+
 # Parts List
 #### 2020 Aluminium Extrusion
 - 4 x 470mm
