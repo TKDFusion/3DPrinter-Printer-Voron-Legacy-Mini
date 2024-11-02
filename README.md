@@ -36,7 +36,7 @@ NOT YET. This is still a work in progress. I still need to fit all the electroni
 - [Top Handles](https://www.printables.com/model/826183-voron-24-trident-side-handles)
 - [Spool Holder](https://www.printables.com/model/369877-better-voron-spool-holder)
 - [Top Mount for the Spool Holder](https://www.printables.com/model/599123-voron-top-mount-spool-holder)
-- [THE FILTER]([https://github.com/oab1/VoronMods/tree/main/v2.2%20Recirculating%20Filter](https://github.com/nateb16/VoronUsers/tree/master/printer_mods/nateb16/THE_FILTER/THE_FILTER_STANDARD_BED_SPACING))
+- [THE FILTER](https://github.com/nateb16/VoronUsers/tree/master/printer_mods/nateb16/THE_FILTER/THE_FILTER_STANDARD_BED_SPACING)
 - [LED Strip Holder](missing.link)
 
 ## This printer is based on the [Voron Legacy](https://github.com/VoronDesign/Voron-Legacy) by [VoronDesign](https://vorondesign.com/)
