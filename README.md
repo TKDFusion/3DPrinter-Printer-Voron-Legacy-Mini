@@ -29,7 +29,7 @@ NOT YET. This is still a work in progress. I still need to fit all the electroni
 
 ## Mod List
 - Enclosure
-- [Dragon Burner Toolhead](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner)
+- [Dragon Burner Toolhead(RECOMENDED)](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner)
 - [Stealthburner](https://github.com/VoronDesign/Voron-Stealthburner)
 - [Klicky Probe](https://github.com/jlas1/Klicky-Probe)
 - [AfterBurner](https://github.com/VoronDesign/Voron-Afterburner)
