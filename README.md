@@ -31,8 +31,8 @@ NOT YET. This is still a work in progress. I still need to fit all the electroni
 - Enclosure
 - [Dragon Burner Toolhead(RECOMENDED)](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner)
 - [Stealthburner](https://github.com/VoronDesign/Voron-Stealthburner)
-- [Klicky Probe](https://github.com/jlas1/Klicky-Probe)
 - [AfterBurner](https://github.com/VoronDesign/Voron-Afterburner)
+- [Klicky Probe](https://github.com/jlas1/Klicky-Probe)
 - [Top Handles](https://www.printables.com/model/826183-voron-24-trident-side-handles)
 - [Spool Holder](https://www.printables.com/model/369877-better-voron-spool-holder)
 - [Top Mount for the Spool Holder](https://www.printables.com/model/599123-voron-top-mount-spool-holder)
