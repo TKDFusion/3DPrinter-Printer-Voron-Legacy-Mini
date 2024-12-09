@@ -33,6 +33,7 @@ NOT YET. This is still a work in progress. I still need to fit all the electroni
 - [Stealthburner](https://github.com/VoronDesign/Voron-Stealthburner)
 - [AfterBurner](https://github.com/VoronDesign/Voron-Afterburner)
 - [Klicky Probe](https://github.com/jlas1/Klicky-Probe)
+- [Servo Dock for Klicky](https://github.com/EduardoMDSousa/Retractable_klicky-prob/tree/main)
 - [Top Handles](https://www.printables.com/model/826183-voron-24-trident-side-handles)
 - [Spool Holder](https://www.printables.com/model/369877-better-voron-spool-holder)
 - [Top Mount for the Spool Holder](https://www.printables.com/model/599123-voron-top-mount-spool-holder)
